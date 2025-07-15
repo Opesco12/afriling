@@ -49,26 +49,26 @@ const HomeScreen = () => {
 
               <div className="space-y-2 border border-[#3FC251] p-4 rounded-xl">
                 <div className="flex items-center justify-between">
-                  <span>NG Hausa</span>
-                  <span className="text-green-600">30% Complete</span>
+                  <span>NG Igbo</span>
+                  <span className="text-green-600">10% Complete</span>
                 </div>
                 <div className="w-full bg-gray-200 rounded-full h-2.5">
                   <div
                     className="bg-green-600 h-2.5 rounded-full"
-                    style={{ width: "30%" }}
+                    style={{ width: "10%" }}
                   ></div>
                 </div>
               </div>
 
               <div className="space-y-2 border border-[#3FC251] p-4 rounded-xl">
                 <div className="flex items-center justify-between">
-                  <span>NG Hausa</span>
-                  <span className="text-green-600">30% Complete</span>
+                  <span>NG Yoruba</span>
+                  <span className="text-green-600">0% Complete</span>
                 </div>
                 <div className="w-full bg-gray-200 rounded-full h-2.5">
                   <div
                     className="bg-green-600 h-2.5 rounded-full"
-                    style={{ width: "30%" }}
+                    style={{ width: "0%" }}
                   ></div>
                 </div>
               </div>
